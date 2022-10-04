@@ -25,5 +25,5 @@ tzdata==2022.4
 # Criar Projeto
 django-admin startproject projeto .
 
-Iniciar o servidor de desenvolvimento do django:
+Iniciar o servidor de desenvolvimento do django:  
 python manage.py runserver
