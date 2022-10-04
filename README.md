@@ -22,3 +22,5 @@ toml==0.10.2
 tomli==2.0.1  
 typing_extensions==4.3.0  
 tzdata==2022.4  
+# Criar Projeto
+django-admin startproject projeto .
